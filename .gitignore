@@ -1,0 +1,41 @@
+# Byte-compiled / optimized / compressed files
+__pycache__/
+*.py[cod]
+*.pyd
+*.pyc
+*.bin
+*.pth
+
+# Virtual environment
+venv/
+env/
+/venv/
+/env/
+# common virtual env names
+.venv/
+.env/
+
+# Distribution / packaging
+.Python
+build/
+dist/
+wheels/
+*.egg-info/
+*.egg
+
+# Development environments
+# VS Code
+.vscode/
+
+# IPython Notebook
+.ipynb_checkpoints/
+
+# Miscellaneous
+.pytest_cache/
+nosetests.xml
+coverage.xml
+*.cover
+*.log
+.mypy_cache/
+.dmypy.json
+dmypy.results
