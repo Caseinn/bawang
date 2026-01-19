@@ -131,8 +131,8 @@ src/bawang/
 1. Clone The Repo
 
 ```powershell
-git clone https://github.com/yourname/bawangcmd.git
-cd bawangcmd
+git clone https://github.com/caseinn/bawang.git
+cd bawang
 ```
 
 2. Install Dependencies (Editable)
@@ -199,6 +199,5 @@ MIT License — Free To Use, Adapt, Or Share For Personal, Educational, Or Commu
 
 ## ❤️ Support
 
-If This App Brings Peace To Your Daily Routine:
-
+If This App Makes Watching Anime Easier:
 * ⭐ Star The Repo
