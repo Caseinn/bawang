@@ -1,3 +1,5 @@
+![Banner](assets/banner.png)
+
 ## Bawang — Anime Streaming TUI For Samehadaku
 
 **Bawang** Is A **Python-Based CLI/TUI Application** That Lets Users **Search Anime On Samehadaku And Stream Episodes Directly** From The Terminal.
